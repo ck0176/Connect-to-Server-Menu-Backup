@@ -20,7 +20,7 @@ NOTES::
 
 ![](./Progress_Image.png)
 
-![](./Completeion.png)
+![](./Completion.png)
 
 | **Version**|**Notes**|
 |:--------:|-----|
