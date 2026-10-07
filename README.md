@@ -11,7 +11,7 @@ NOTES::
  - Provides a quick summary 
  - Shows a basic progress dialog
  - Provides an after backup Summary
- - 
+   
 ![](./Connect_To_Server_Manager.png)
 
 ![](./Backup_Destination.png)
